@@ -3,6 +3,7 @@
 
 
 <hr />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="320" height="300" />
 - 🔭 I’m currently a sophomore at IIT Mandi, pursuing my B.Tech in Computer Science.<br>
 - 🌱 I’m currently learning React, Django, Flutter, and DSA<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vishwas-saini-384212218/">Vishwas Saini (Linkedin)</a><br>
